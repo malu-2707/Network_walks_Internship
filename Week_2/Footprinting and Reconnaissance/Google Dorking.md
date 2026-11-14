@@ -1,4 +1,4 @@
-## 5.1 Footprinting and Reconnaissance – Google Dorking
+## 5.1 Google Dorking
 
 ### Objective
 To use Google Dorking techniques to identify publicly accessible mathematics textbooks and educational resources available in PDF format.
